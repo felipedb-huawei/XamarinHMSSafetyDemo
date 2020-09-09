@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#455A64</color>
+    <color name="colorAccent">#3498db</color>
+	<color name="colorCircle1Stroke">#F00</color>
+	<color name="colorCircle2Stroke">#00F</color>
+	<color name="colorCircle1Fill">#CCFFFFFF</color>
+	<color name="colorCircle2Fill">#80FF0000</color>
+</resources>

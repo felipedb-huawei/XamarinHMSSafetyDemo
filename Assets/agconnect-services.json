@@ -1,0 +1,12 @@
+{
+	"client":{
+		"cp_id":"2640057000001164399",
+		"product_id":"736430079244622914",
+		"client_id":"443711671660194880",
+		"client_secret":"BAF98A2898CEEA2C04FEC6EAF82DFC632A326F1E9B2F62DA1F58BCD3F1B2AE24",
+		"app_id":"102839041",
+		"package_name":"com.xamarin.safety.example",
+		"api_key":"CgB6e3x9dJ6DS8MU5wgQ5lhiohiieialdcMeFINSbFHcINTvsB+Dbp52kiXY1WJLzrwHNtJsiMt+IkcwOEUiP33Y"
+	},
+	"configuration_version":"1.0"
+}

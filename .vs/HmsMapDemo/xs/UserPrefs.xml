@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{79FB49EB-900A-4448-8AB0-D773578C9B34}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Resources/layout/content_main.xml">
+    <Files>
+      <File FileName="Properties/AndroidManifest.xml" />
+      <File FileName="MainActivity.cs" />
+      <File FileName="Resources/layout/activity_main.xml" />
+      <File FileName="Resources/layout/content_main.xml" Line="4" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HmsMapDemo" expanded="True">
+            <Node name="HmsMapDemo" expanded="True">
+              <Node name="Properties" expanded="True" />
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+                <Node name="layout" expanded="True">
+                  <Node name="content_main.xml" selected="True" />
+                </Node>
+                <Node name="values" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>Jars/Security/Security.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HmsSafetyDemo AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.94HUT20217000260" />
+</Properties>
